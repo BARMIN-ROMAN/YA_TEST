@@ -1,8 +1,8 @@
 Решение
 ====================
-1) [API Route](https://github.com/GAMERSKZ/YA_TEST/blob/master/cardtest1.md) - Сортировка карточек путешественника.
+1) [Задание 1](https://github.com/GAMERSKZ/YA_TEST/blob/master/cardtest1.md) - Сортировка карточек путешественника.
 
-2) [JS-FW](https://github.com/GAMERSKZ/YA_TEST/blob/master/DOMtest2.md) - JS-фрэймворк для работы с DOM & CSS.
+2) [Задание 2](https://github.com/GAMERSKZ/YA_TEST/blob/master/DOMtest2.md) - JS-фрэймворк для работы с DOM & CSS.
 
 
 ## Сортировщик карточек путешественника
